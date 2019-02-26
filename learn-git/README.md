@@ -1,4 +1,5 @@
 # learn-git
 about how to use git
 
-branch test !
+create a feature1 branch
+
