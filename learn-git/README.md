@@ -2,5 +2,5 @@
 about how to use git
 
 
-create a feature1 branch
+slave branch
 
